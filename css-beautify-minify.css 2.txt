@@ -1,4 +1,26 @@
-﻿
+https://cdn.prod.website-files.com/67f80b2c2e5ad1aec92cf1ad/67f8405905e334d6ac8b064b_kalopathor-logo-trace.svg https://cdn.prod.website-files.com/67f80b2c2e5ad1aec92cf1ad/67f8c02ed708d99ae01c248b_Kalopathor-webclip.png https://cdn.prod.website-files.com/67f80b2c2e5ad1aec92cf1ad/67f8c0322461d9141c378a69_Kalopathor-favicon.png https://cdn.prod.website-files.com/67f80b2c2e5ad1aec92cf1ad/67f8421af00dd50501675a2b_Kalopathor-Armchair1-2%3Dcompressed.webp
+
+https://cdn.prod.website-files.com/67f80b2c2e5ad1aec92cf1ad/67f84227d713400141027714_Visune%20-%20Specular%20Studio%20(STU064).1151.webp
+
+https://cdn.prod.website-files.com/67f80b2c2e5ad1aec92cf1ad/67f842266c6748b650f2e6a6_Visune%20-%20Specular%20Studio%20(STU064).1001.webp
+
+https://cdn.prod.website-files.com/67f80b2c2e5ad1aec92cf1ad/67f8421b8bba5ac20dd14321_Kalopathor-bookshelf6-1%3Dcompressed.webp
+
+https://cdn.prod.website-files.com/67f80b2c2e5ad1aec92cf1ad/67f84223347c5467936b4170_Kalopathor-Rack2-1%3Dcompressed.webp
+
+
+https://cdn.prod.website-files.com/67f80b2c2e5ad1aec92cf1ad/67f84226a02e48c580921484_Visune%20-%20Specular%20Studio%20(STU064).1011.webp
+
+https://cdn.prod.website-files.com/67f80b2c2e5ad1aec92cf1ad/67f842248775a5879acce15e_startup%20studios%203.1131.webp
+
+https://cdn.prod.website-files.com/67f80b2c2e5ad1aec92cf1ad/67f84222b6606992153a10a7_Kalopathor-gate2-3%3Dcompressed.webp
+
+https://cdn.prod.website-files.com/67f80b2c2e5ad1aec92cf1ad/67f8422016540f00cdcc58be_Kalopathor-Cabinet1-21.webp
+
+
+
+
+
 html{-webkit-text-size-adjust:100%;-ms-text-size- adjust:100%;font-family:sans- serif}body{margin:0}article,aside,details,figcaption, figure,footer,header,hgroup,main,menu,nav,section,sum mary{display:block}audio,canvas,progress,video{vertic  al-align:baseline;display:inline- block}audio:not([controls]){height:0;display:none} [hidden],template{display:none}a{background- color:#0000}a:active,a:hover{outline:0}abbr[title]
 {border-bottom:1px dotted}b,strong{font- weight:700}dfn{font-style:italic}h1{margin:.67em 0;font- size:2em}mark{color:#000;background:#ff0}small{font- size:80%}sub,sup{vertical-align:baseline;font- size:75%;line-
 height:0;position:relative}sup{top:-.5em}sub{bottom:-
